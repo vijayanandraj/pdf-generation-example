@@ -1,0 +1,8 @@
+.hidden {
+  display: none;
+}
+
+.offscreen {
+  position: absolute;
+  left: -9999px;
+}
